@@ -1,0 +1,161 @@
+    1  cp /etc/passwd ~/mypassword
+    2  mv ~/mypassword ~/oldpasswd
+    3  cd ~
+    4  ls /usr/bin | grep ^w
+    5  type ls
+    6  ls /usr/bin | grep ^c
+    7  file /usr/bin/cat
+    8  file /usr/bin/cp
+    9  man -k read
+   10  apropos copy
+   11  clear
+   12  curl -sS https://starship.rs/install.sh | sh
+   13  sudo apt install curl
+   14  curl -sS https://starship.rs/install.sh | sh
+   15  clear
+   16  vim ~/.bashrc 
+   17  sudo apt install vim 
+   18  sudo apt-get install vim 
+   19  sudo apt-get update
+   20  sudo apt-get upgrade 
+   21  sudo apt install vim
+   22  vim ~/.bashrc
+   23  source ~/.bashrc 
+   24  vim ~/.bashrc
+   25  source ~/.bashrc 
+   26  clear
+   27  sudo apt install neofetch 
+   28  source ~/.bashrc 
+   29  vim ~/.bashrc
+   30  source ~/.bashrc 
+   31  ;clear
+   32  vim /usr/bin/neofetch 
+   33  ls
+   34  clear
+   35  cd /home/
+   36  ls
+   37  clear
+   38  chown rahma /usr/bin/neofetch 
+   39  sudo chown rahma /usr/bin/neofetch 
+   40  clear
+   41  vim /usr/bin/neofetch 
+   42  clear
+   43  vim ~/.config/neofetch/config.conf 
+   44  vim /usr/bin/neofetch 
+   45  vim ~/.config/neofetch/config.conf 
+   46  cd
+   47  clear
+   48  neofetch 
+   49  vim ~/.config/neofetch/config.conf 
+   50  vim /usr/bin/neofetch 
+   51  neofetch 
+   52  clear
+   53  vim /usr/bin/neofetch 
+   54  neofetch 
+   55  vim /usr/bin/neofetch 
+   56  neofetch 
+   57  clear
+   58  vim /usr/bin/neofetch 
+   59  neofetch 
+   60  vim /usr/bin/neofetch 
+   61  neofetch 
+   62  clear
+   63  neofetch 
+   64  ls
+   65  which vim
+   66  vi binary_search.c
+   67  gcc -o  binary_search binary_search.c
+   68  sudu apt install gcc
+   69  which sudu
+   70  su
+   71  sud apt update
+   72  sudu apt update
+   73  su
+   74  Shikka132002
+   75  su
+   76  su /
+   77  su \
+   78  su /
+   79  su
+   80  reboot
+   81  sudo passwd /
+   82  sudo passwd root
+   83  su root
+   84  ls
+   85  sudo apt install git gcc git-lfs cmake -y
+   86  ls
+   87  vim
+   88  gcc -o binary_search binary_search.c
+   89  vi binary_search.c
+   90  gcc -o binary_search binary_search.c
+   91  vi binary_search.c
+   92  gcc -o binary_search binary_search.c
+   93  ./binary_search
+   94  sudo mv binary_search /usr/local/bin/
+   95  ls /usr/local/bin/binary_search
+   96  cd ~
+   97  binary_search
+   98  echo $PATH
+   99  sudo find / -name "binary_search.c"
+  100  cat /etc/shells
+  101  env
+  102  printenv
+  103  echo $SHELL
+  104  echo \
+  105  alias PrintPath='echo $PATH'
+  106  echo "alias PrintPath='echo \$PATH'" >> ~/.bashrc
+  107  source ~/.bashrc
+  108  sudu apt update
+  109  git --version
+  110  sudo apt update
+  111  sudo apt install git
+  112  git init
+  113  git config --global user.name "rahmaabdelkader"
+  114  git config --global user.email "rahma.gomaa02@eng-st.cu.edu.eg"
+  115  git init
+  116  git add .
+  117  ssh-keygen -C "rahma.gomaa02@eng-st.cu.edu.eg"
+  118  eval ($"ssh-agent -s")
+  119  eval "$(ssh-agent -s)"
+  120  ssh-add ~/.ssh/id_rsa
+  121  cat ~/.ssh/id_rsa.pub 
+  122  git clone git@github.com:rahmaabdelkader2/Embedded-linux.git
+  123  cd Embedded-linux/
+  124  ls
+  125  git add .
+  126  git commit -m "adding task2"
+  127  git push origin 
+  128  vim check_bashrc.sh
+  129  chmod +x check_bashrc.sh
+  130  ./check_bashrc.sh
+  131  echo $HELLO
+  132  echo $LOCAL
+  133  ps -p $$ -o comm=
+  134  ps -o ppid= -p $$
+  135  ps -p 3581 -o comm=
+  136  gnome-terminal &
+  137  vim check_bashrc.sh
+  138  echo $HELLO
+  139  echo $LOCAL
+  140  vim check_bashcr.sh
+  141  echo $LOCAL
+  142  echo $HELLO
+  143  vim check_bashrc.sh
+  144  chmod +x check_bashrc.sh
+  145  ./check_bashrc.sh
+  146  git add.
+  147  git add .
+  148  git status
+  149  git commit -m "adding session 1 task 3"
+  150  git push origin main
+  151  git remote -v
+  152  [200~git remote add origin https://github.com/yourusername/your-repository.git
+  153  git remote add origin https://github.com/rahmaabdelkader2/Embedded-linux.git
+  154  git add .
+  155  git commit -m "adding session 1 task 3"
+  156  git push origin main
+  157  git checkout main
+  158  git status
+  159  git push origin main
+  160  history
+  161  history > /tmp/commands.list
